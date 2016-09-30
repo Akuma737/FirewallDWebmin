@@ -1,0 +1,7 @@
+longdesc_de=Konfiguriert eine Linux-Firewall mit FirewallD, indem es erlaubte Dienste und Ports editiert.
+version=1.810
+longdesc=Configure a Linux firewall using FirewallD, by editing allowed services and ports.
+os_support=*-linux
+desc=FirewallD
+category=net
+depends=net init 1.810
